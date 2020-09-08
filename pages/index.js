@@ -1,2 +1,4 @@
-export default [{"title":"about", "fname":"about.md"},
-{"title":"index", "fname":"index.md"}];
+export default [
+    {"title":"index", "fname":"index.md"},
+    {"title":"about", "fname":"about.md"},
+    {"title":"contact", "fname":"contact.md"}];
